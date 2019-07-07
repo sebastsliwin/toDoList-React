@@ -1,0 +1,18 @@
+.form {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0 10px 40px -10px rgba(#818181, .5);
+    width: 30vw;
+    height: 50vh;
+
+    input, textarea {
+        width: 50%;
+        border: none;
+        border-bottom: 1px solid #1e58ff;
+        outline: none;
+        font-size: 20px;
+    }
+}

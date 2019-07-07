@@ -1,0 +1,12 @@
+.wrapper {
+    padding: 15px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    .header {
+        color: #1e58ff;
+        font-size: 1.4rem;
+        letter-spacing: 2px;
+    }
+}
